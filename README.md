@@ -1,2 +1,2 @@
 # ProyectoDelSegundoCorte
-Aca esta el proyecto de las vacas espero no raspar XD
+Aca esta el proyecto de las vacas espero no raspar 
